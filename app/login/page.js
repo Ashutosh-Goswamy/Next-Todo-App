@@ -30,7 +30,7 @@ export default function LoginPage() {
       <div className="w-full max-w-lg">
         <header className="mb-8 flex justify-between items-center">
           <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-600">
-            Todo App
+            MY Todo App
           </h1>
         </header>
         <h2 className="text-2xl font-semibold mb-4">Login</h2>
